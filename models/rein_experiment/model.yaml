@@ -37,3 +37,15 @@ composition:
           x: 0
           y: -5.0
           z: 0
+    - type: "waypoint"
+      id: "hallway"
+      pose:
+          x: -0.6
+          y: 4.0
+          z: 0
+    - type: "waypoint"
+      id: "kitchen"
+      pose:
+          x: 0.0
+          y: 0.0
+          z: 0

@@ -118,7 +118,7 @@ composition:
     - type: "bed"
       id: "bed"
       pose:
-          x: -3.1
+          x: -2.9
           y: -0.35
           z: 0
           X: 0
