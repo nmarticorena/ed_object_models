@@ -8,8 +8,19 @@ composition:
     - type: "kinect_loc_test.wall_panel"
       id: "wall_panel1"
       pose:
-          x: 0
+          x: 2.2
           y: 0
           z: 0
-    
+    - type: "kinect_loc_test.small_block"
+      id: "block1"
+      pose:
+          x: 2.2
+          y: 0.6
+          z: 0
+    - type: "kinect_loc_test.small_block"
+      id: "block2"
+      pose:
+          x: 2.2
+          y: -0.8
+          z: 0
 
